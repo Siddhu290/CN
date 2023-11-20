@@ -1,0 +1,20 @@
+g++ udp_server.cpp -o udp_server
+g++ udp_client.cpp -o udp_client
+
+
+-------------------------------
+
+
+./server
+
+
+-----------------------------
+
+
+
+./client
+
+
+
+
+Run both command on 2 different terminal

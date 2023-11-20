@@ -1,0 +1,23 @@
+g++ server.cpp -o server
+g++ client.cpp -o client
+
+
+-------------------------------
+
+
+./server
+
+
+-----------------------------
+
+
+
+./client
+
+
+
+
+
+
+
+Run this both command on 2 different terminals
